@@ -1,23 +1,16 @@
-# EFI for Dell Latitude 7280 - Hackintosh - Opencore
+# EFI for Dell Latitude 7280 - Opencore
+## Opencore 0.9.6
+## Monterey 12.7.1 (c)
 
 ![image](https://github.com/takobaba/EFI-Opencore-Dell-7280/assets/3728072/88ca1fd9-aec1-4479-a51e-ef98e15cf976)
 
 ## Specs:
-  - Intel i5 Kaby Lake 7300U
-  - 16 GB RAM 2133 MHz
+
+  - **CPU:** Intel i5 Kaby Lake 7300U
+  - **GPU:** Intel HD Graphics 620 @ 2048 MB
+  - **Memory:** 16 GB RAM 2133 MHz
   - SK Hynix SC308 256 GB NVME SSD
-  - 1366 x 768 screen
-
-### Opencore 0.9.3
-
-### Monterey 12.6.6
-
-#### GPU Memory(UnifiedMem) -> 2048 MB
-
-#### CPU Friend Settings
-  * LFM         -> ?
-  * EPP         -> ?
-  * Perf Bias   -> ?
+  - 1366 x 768 Screen Resolution
 
 ## Works:
   * Battery
