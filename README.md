@@ -2,7 +2,7 @@
 ## Opencore 0.9.6
 ## Monterey 12.7.1 (c)
 
-![image](https://github.com/takobaba/EFI-Opencore-Dell-7280/assets/3728072/88ca1fd9-aec1-4479-a51e-ef98e15cf976)
+![image](7280.png)
 
 ## Specs:
 
