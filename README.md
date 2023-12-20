@@ -1,6 +1,6 @@
 # EFI for Dell Latitude 7280 - Opencore
-## Opencore 0.9.6
-## Monterey 12.7.1 (c)
+## Opencore 0.9.7
+## Monterey 13.6.3 (c)
 
 ![image](7280.png)
 
