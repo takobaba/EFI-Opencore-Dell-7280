@@ -1,5 +1,5 @@
 # EFI for Dell Latitude 7280 - Opencore
-## Opencore 0.9.7
+## Opencore 0.9.8
 ## macOs Ventura 13.6.4 (c)
 
 ![image](7280.png)
@@ -10,7 +10,7 @@
   - **GPU:** Intel HD Graphics 620 @ 2048 MB
   - **Memory:** 16 GB RAM 2133 MHz
   - **Disk:** SK Hynix SC308 256 GB NVME SSD
-  - **Screen Resolution:** 1366 x 768 
+  - **Screen Resolution:** 1366 x 768
   - **BIOS:** 1.34 - 11 Dec 2023
   - **WiFi:** Intel® Wireless-AC 9260
   - **Audio:** Realtek ALC256(ALC3246)
