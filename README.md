@@ -1,6 +1,6 @@
 # EFI for Dell Latitude 7280 - Opencore
 ## Opencore 1.0.3
-## macOs Ventura 13.7.1 (c)
+## macOs Ventura 13.7.2 (c)
 
 ![image](7280.png)
 
